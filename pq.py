@@ -1,4 +1,4 @@
-from ol_2 import OrderedList
+from ol import OrderedList
 
 class PriorityQueue:
     def __init__(self):
